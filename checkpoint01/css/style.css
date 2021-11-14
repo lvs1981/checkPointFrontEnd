@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/Alexandria.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+.titulo{
+    font-family: 'Short Stack', cursive;
+    color: rgb(252, 245, 247);
+    background-color: rgb(61, 157, 235);
+    font-size:30px ;
+    text-align: center;
+    padding: 15px;
+}
+p{
+    font-family: 'Anton', sans-serif;
+    color:rgb(255, 255, 255);
+    font-size: 2em;
+    margin: 15px;
+}
+span{
+    background-color: rgba(204, 204, 204, 0.281)
+}
+iframe{
+    margin-top: 20px;
+    width: 1280px;
+    height: 720px;
+    position: relative;
+}
+.subtitulo{
+    font-family: 'Short Stack', cursive;
+    font-size: 30px;
+    color: white;
+    margin: 10px;
+}
+li{
+    font-family: 'Anton', sans-serif;
+    color: rgb(51, 201, 247);
+    font-size: 2em;
+    padding: 5px;
+}
+.icones{
+    margin: 50px 30px;
+}
